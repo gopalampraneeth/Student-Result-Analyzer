@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Praneeth",
+        "roll_no": "101",
+        "marks": {
+            "Math": 90,
+            "Science": 85,
+            "English": 88
+        }
+    },
+    {
+        "name": "Rahul",
+        "roll_no": "102",
+        "marks": {
+            "Math": 78,
+            "Science": 82,
+            "English": 80
+        }
+    },
+    {
+        "name": "Sandeep",
+        "roll_no": "103",
+        "marks": {
+            "Math": 95,
+            "Science": 92,
+            "English": 94
+        }
+    },
+    {
+        "name": "Kiran",
+        "roll_no": "104",
+        "marks": {
+            "Math": 68,
+            "Science": 75,
+            "English": 72
+        }
+    },
+    {
+        "name": "Arjun",
+        "roll_no": "105",
+        "marks": {
+            "Math": 88,
+            "Science": 91,
+            "English": 86
+        }
+    },
+    {
+        "name": "Vikram",
+        "roll_no": "106",
+        "marks": {
+            "Math": 76,
+            "Science": 79,
+            "English": 81
+        }
+    },
+    {
+        "name": "Rohit",
+        "roll_no": "107",
+        "marks": {
+            "Math": 92,
+            "Science": 87,
+            "English": 90
+        }
+    },
+    {
+        "name": "Surya",
+        "roll_no": "108",
+        "marks": {
+            "Math": 65,
+            "Science": 70,
+            "English": 68
+        }
+    },
+    {
+        "name": "Manoj",
+        "roll_no": "109",
+        "marks": {
+            "Math": 84,
+            "Science": 89,
+            "English": 85
+        }
+    },
+    {
+        "name": "Sai",
+        "roll_no": "110",
+        "marks": {
+            "Math": 97,
+            "Science": 95,
+            "English": 96
+        }
+    },
+    {
+        "name": "Varun",
+        "roll_no": "111",
+        "marks": {
+            "Math": 73,
+            "Science": 77,
+            "English": 75
+        }
+    },
+    {
+        "name": "Akash",
+        "roll_no": "112",
+        "marks": {
+            "Math": 86,
+            "Science": 83,
+            "English": 89
+        }
+    },
+    {
+        "name": "Nikhil",
+        "roll_no": "113",
+        "marks": {
+            "Math": 91,
+            "Science": 88,
+            "English": 92
+        }
+    },
+    {
+        "name": "Teja",
+        "roll_no": "114",
+        "marks": {
+            "Math": 69,
+            "Science": 74,
+            "English": 71
+        }
+    },
+    {
+        "name": "Harsha",
+        "roll_no": "115",
+        "marks": {
+            "Math": 80,
+            "Science": 85,
+            "English": 82
+        }
+    },
+    {
+        "name": "Aditya",
+        "roll_no": "116",
+        "marks": {
+            "Math": 94,
+            "Science": 90,
+            "English": 93
+        }
+    },
+    {
+        "name": "Rakesh",
+        "roll_no": "117",
+        "marks": {
+            "Math": 72,
+            "Science": 68,
+            "English": 76
+        }
+    },
+    {
+        "name": "Abhinav",
+        "roll_no": "118",
+        "marks": {
+            "Math": 89,
+            "Science": 94,
+            "English": 87
+        }
+    },
+    {
+        "name": "Mohan",
+        "roll_no": "119",
+        "marks": {
+            "Math": 63,
+            "Science": 71,
+            "English": 67
+        }
+    },
+    {
+        "name": "Varsha",
+        "roll_no": "120",
+        "marks": {
+            "Math": 96,
+            "Science": 93,
+            "English": 95
+        }
+    }
+]
