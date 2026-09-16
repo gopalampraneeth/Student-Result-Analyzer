@@ -18,11 +18,11 @@ class ResultManager:
     def find_topper(self):
         if not self.students:
             return None
-
-        return max(
-            self.students,
-            key=lambda student: student.calculate_total()
-        )
+        topper = self.students[0]
+        for student in self.students:
+            if student.calculate_total()>topper.calculate_total():
+                topper=student
+        return topper
 
     def save_students(self):
         data = [
